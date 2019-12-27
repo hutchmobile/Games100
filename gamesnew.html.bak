@@ -73,7 +73,11 @@
 	   "exitlink" : "https://play.google.com/store/apps/details?id=com.birdsmatch3.angryhuntingbridsmatch3",
 	   "onlinecontrol1":"true",
 	   "onlinecontrol2":"true",
-	    "adtime":"3"
+<<<<<<< HEAD
+	    "adtime":"2"
+=======
+	    "adtime":"1"
+>>>>>>> 1c3ad5bff65d98563e6db564e8466c04dbf02f18
      },
      {
         "title" : "attack shark",
