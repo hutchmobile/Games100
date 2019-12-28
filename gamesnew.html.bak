@@ -60,7 +60,7 @@
      {
         "title" : "shark shooter",
        "image" : "https://lh3.googleusercontent.com/IIjSHI_IPvg27xcbXobNKq-HWb3yq1othuRRwsbXDR00nmULVfialhoSAaq2C2840GA",
-	   "gamelink" : "https://play.google.com/store/apps/details?id=com.huntergames.wildhunt.freehuntinggames",
+	   "gamelink" : "https://play.google.com/store/apps/details?id=com.duckgames.duckhunting",
 	   "mg1image" : "https://lh3.googleusercontent.com/7t3b45W8liTw8CxH62Ul1iiqXgOxDLNSUqt2r7r06E9sNE2EXthGv9R-f6bPiObTqZE",
 	   "mg1link" : "https://play.google.com/store/apps/details?id=com.huntergames.carcolor.switchcolor",
 	   "mg2image" : "https://lh3.googleusercontent.com/yNo2u-A0XsvJC-Q3y23Rz9pFar2o3zl8qGMp85TbhavbN-ohBz3AZQ0EPTkPKV-saX_5",
@@ -73,7 +73,7 @@
 	   "exitlink" : "https://play.google.com/store/apps/details?id=com.birdsmatch3.angryhuntingbridsmatch3",
 	   "onlinecontrol1":"false",
 	   "onlinecontrol2":"false",
- "adtime":"2"
+        "adtime":"2"
      },
      {
         "title" : "attack shark",
@@ -95,8 +95,8 @@
      },
      {
         "title" : "duck hunting",
-       "image" : "https://lh3.googleusercontent.com/yI04pM4wpoxMAc1DD8iZ-ahhw30GqjxINxeGCbrjBK9tDfb-TZr42KHGtu6gmZ6QOw",
-	   "gamelink" : "https://play.google.com/store/apps/details?id=com.huntergames.wildhunt.freehuntinggames",
+       "image" : "https://lh3.googleusercontent.com/N-UvXJJQl10f9otftjfpCd-8tcezD7_mzeyvJzrZ4xFiWCHsB-5XpyFvKcpVh8Id6ug",
+	   "gamelink" : "https://play.google.com/store/apps/details?id=com.sharkevolution.sharkgames",
 	   "mg1image" : "https://lh3.googleusercontent.com/7t3b45W8liTw8CxH62Ul1iiqXgOxDLNSUqt2r7r06E9sNE2EXthGv9R-f6bPiObTqZE",
 	   "mg1link" : "https://play.google.com/store/apps/details?id=com.huntergames.carcolor.switchcolor",
 	   "mg2image" : "https://lh3.googleusercontent.com/yNo2u-A0XsvJC-Q3y23Rz9pFar2o3zl8qGMp85TbhavbN-ohBz3AZQ0EPTkPKV-saX_5",
@@ -107,8 +107,8 @@
 	   "mg4link" : "https://play.google.com/store/apps/details?id=com.huntergames.zombiesniper",
 	    "exitimage" : "https://lh3.googleusercontent.com/elzHutQruIc_1Nw6Reo8tx2QsnyqtjxBvm2FxKItA2xprMya1Y5KwZe_H3tDedriIw",
 	   "exitlink" : "https://play.google.com/store/apps/details?id=com.birdsmatch3.angryhuntingbridsmatch3",
-	   "onlinecontrol1":"false",
-	   "onlinecontrol2":"false",
+	   "onlinecontrol1":"true",
+	   "onlinecontrol2":"true",
 	     "adtime":"2"
      }
    ]
