@@ -71,7 +71,7 @@
 	   "mg4link" : "https://play.google.com/store/apps/details?id=com.huntergames.zombiesniper",
 	    "exitimage" : "https://lh3.googleusercontent.com/elzHutQruIc_1Nw6Reo8tx2QsnyqtjxBvm2FxKItA2xprMya1Y5KwZe_H3tDedriIw",
 	   "exitlink" : "https://play.google.com/store/apps/details?id=com.birdsmatch3.angryhuntingbridsmatch3",
-	   "onlinecontrol1":"true",
+	   "onlinecontrol1":"false",
 	   "onlinecontrol2":"true",
         "adtime":"0.1"
      },
@@ -125,8 +125,8 @@
 	   "mg4link" : "https://play.google.com/store/apps/details?id=com.huntergames.zombiesniper",
 	    "exitimage" : "https://lh3.googleusercontent.com/elzHutQruIc_1Nw6Reo8tx2QsnyqtjxBvm2FxKItA2xprMya1Y5KwZe_H3tDedriIw",
 	   "exitlink" : "https://play.google.com/store/apps/details?id=com.birdsmatch3.angryhuntingbridsmatch3",
-	   "onlinecontrol1":"true",
-	   "onlinecontrol2":"true",
+	   "onlinecontrol1":"false",
+	   "onlinecontrol2":"false",
 	     "adtime":"2"
      }
    ]
