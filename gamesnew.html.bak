@@ -4,7 +4,7 @@
    "games" :
    [
      {
-       "title" : "zombie",
+       "title" : "zombie 0",
        "image" : "https://lh3.googleusercontent.com/N-UvXJJQl10f9otftjfpCd-8tcezD7_mzeyvJzrZ4xFiWCHsB-5XpyFvKcpVh8Id6ug",
 	   "gamelink" : "https://play.google.com/store/apps/details?id=com.sharkevolution.sharkgames",
 	    "mg1image" : "https://lh3.googleusercontent.com/MqVVLITNEIHWreTMp85NqDobuJOFLckcPWAiH-s3bKIUcKHxa-6YiQtKvK34kpa5dUQ",
@@ -22,7 +22,7 @@
 	    "adtime":"1"	  
      },
      {
-       "title" : "wild hunt",
+       "title" : "wild hunt 1",
        "image" : "https://lh3.googleusercontent.com/N-UvXJJQl10f9otftjfpCd-8tcezD7_mzeyvJzrZ4xFiWCHsB-5XpyFvKcpVh8Id6ug",
 	   "gamelink" : "https://play.google.com/store/apps/details?id=com.sharkevolution.sharkgames",
 	    "mg1image" : "https://lh3.googleusercontent.com/MqVVLITNEIHWreTMp85NqDobuJOFLckcPWAiH-s3bKIUcKHxa-6YiQtKvK34kpa5dUQ",
@@ -40,7 +40,7 @@
 	    "adtime":"1"
      },
      {
-        "title" : "shark shooter",
+        "title" : "shark shooter 2",
        "image" : "https://lh3.googleusercontent.com/IIjSHI_IPvg27xcbXobNKq-HWb3yq1othuRRwsbXDR00nmULVfialhoSAaq2C2840GA",
 	   "gamelink" : "https://play.google.com/store/apps/details?id=com.duckgames.duckhunting",
 	  "mg1image" : "https://lh3.googleusercontent.com/Txp__MWEaHtJVBmBcHkfEr8HCwxsA_Tmt0wms0oa-mMkR3OavOh9VFG17KBDskLwLw",
@@ -54,11 +54,11 @@
 	      "exitimage" : "https://lh3.googleusercontent.com/elzHutQruIc_1Nw6Reo8tx2QsnyqtjxBvm2FxKItA2xprMya1Y5KwZe_H3tDedriIw",
 	   "exitlink" : "https://play.google.com/store/apps/details?id=com.birdsmatch3.angryhuntingbridsmatch3",
 	   "onlinecontrol1":"false",
-	   "onlinecontrol2":"true",
+	   "onlinecontrol2":"false",
         "adtime":"0.1"
      },
      {
-        "title" : "attack shark",
+        "title" : "attack shark 3",
        "image" : "https://lh3.googleusercontent.com/yI04pM4wpoxMAc1DD8iZ-ahhw30GqjxINxeGCbrjBK9tDfb-TZr42KHGtu6gmZ6QOw",
 	   "gamelink" : "https://play.google.com/store/apps/details?id=com.huntergames.wildhunt.freehuntinggames",
 	  "mg1image" : "https://lh3.googleusercontent.com/Txp__MWEaHtJVBmBcHkfEr8HCwxsA_Tmt0wms0oa-mMkR3OavOh9VFG17KBDskLwLw",
@@ -72,11 +72,11 @@
 	      "exitimage" : "https://lh3.googleusercontent.com/elzHutQruIc_1Nw6Reo8tx2QsnyqtjxBvm2FxKItA2xprMya1Y5KwZe_H3tDedriIw",
 	   "exitlink" : "https://play.google.com/store/apps/details?id=com.birdsmatch3.angryhuntingbridsmatch3",
 	   "onlinecontrol1":"false",
-	   "onlinecontrol2":"true",
+	   "onlinecontrol2":"false",
 	     "adtime":"0.1"
      },
      {
-        "title" : "duck hunting",
+        "title" : "duck hunting 4",
        "image" : "https://lh3.googleusercontent.com/N-UvXJJQl10f9otftjfpCd-8tcezD7_mzeyvJzrZ4xFiWCHsB-5XpyFvKcpVh8Id6ug",
 	   "gamelink" : "https://play.google.com/store/apps/details?id=com.sharkevolution.sharkgames",
 	   "mg1image" : "https://lh3.googleusercontent.com/MqVVLITNEIHWreTMp85NqDobuJOFLckcPWAiH-s3bKIUcKHxa-6YiQtKvK34kpa5dUQ",
@@ -88,6 +88,24 @@
 	   "mg4image" : "https://lh3.googleusercontent.com/AVog4ZKe3NYj6w4-zZaqBDaj0JzvSSkfsR_CfPQ_e_bKnCU0j48-LCeDdxI2N2Oiey87",
 	   "mg4link" : "https://play.google.com/store/apps/details?id=com.duckgames.duckhunting",
 	     "exitimage" : "https://lh3.googleusercontent.com/elzHutQruIc_1Nw6Reo8tx2QsnyqtjxBvm2FxKItA2xprMya1Y5KwZe_H3tDedriIw",
+	   "exitlink" : "https://play.google.com/store/apps/details?id=com.birdsmatch3.angryhuntingbridsmatch3",
+	   "onlinecontrol1":"false",
+	   "onlinecontrol2":"true",
+	     "adtime":"0.1"
+     },
+     {
+        "title" : "Dinosaur Hunter 5",
+       "image" : "https://lh3.googleusercontent.com/N-UvXJJQl10f9otftjfpCd-8tcezD7_mzeyvJzrZ4xFiWCHsB-5XpyFvKcpVh8Id6ug",
+	   "gamelink" : "https://play.google.com/store/apps/details?id=com.sharkevolution.sharkgames",
+	  "mg1image" : "https://lh3.googleusercontent.com/MqVVLITNEIHWreTMp85NqDobuJOFLckcPWAiH-s3bKIUcKHxa-6YiQtKvK34kpa5dUQ",
+	   "mg1link" : "https://play.google.com/store/apps/details?id=com.sharkevolution.sharkgames",
+	   "mg2image" : "https://lh3.googleusercontent.com/yNo2u-A0XsvJC-Q3y23Rz9pFar2o3zl8qGMp85TbhavbN-ohBz3AZQ0EPTkPKV-saX_5",
+	   "mg2link" : "https://play.google.com/store/apps/details?id=com.huntergames.wildhunt.freehuntinggames",
+	   "mg3image" : "https://lh3.googleusercontent.com/xdbgzSHbVCJNoeWr1Js6RwmMLgNASgI1cKrVf2hjSJXQ1MHKZqOH5n2mIjCdA0yAVw",
+	   "mg3link" : "https://play.google.com/store/apps/details?id=com.huntergames.zombie",
+	   "mg4image" : "https://lh3.googleusercontent.com/AVog4ZKe3NYj6w4-zZaqBDaj0JzvSSkfsR_CfPQ_e_bKnCU0j48-LCeDdxI2N2Oiey87",
+	   "mg4link" : "https://play.google.com/store/apps/details?id=com.duckgames.duckhunting",
+	      "exitimage" : "https://lh3.googleusercontent.com/elzHutQruIc_1Nw6Reo8tx2QsnyqtjxBvm2FxKItA2xprMya1Y5KwZe_H3tDedriIw",
 	   "exitlink" : "https://play.google.com/store/apps/details?id=com.birdsmatch3.angryhuntingbridsmatch3",
 	   "onlinecontrol1":"false",
 	   "onlinecontrol2":"true",
